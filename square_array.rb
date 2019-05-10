@@ -3,5 +3,4 @@ def square_array(array)
   array.each do |number|
     answer = number**2
     new_array.push(answer)
-  # your code here
 end
